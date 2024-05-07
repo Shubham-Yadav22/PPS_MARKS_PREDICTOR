@@ -1,7 +1,3 @@
-"""
-@author: Shubham.Yadav
-"""
-
 import numpy as np
 import pickle
 import sklearn
